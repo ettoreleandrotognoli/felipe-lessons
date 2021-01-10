@@ -1,0 +1,5 @@
+
+# Techonologies
+
+- git
+- python
